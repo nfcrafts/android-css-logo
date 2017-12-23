@@ -1,0 +1,112 @@
+.android-box {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -400px;
+  margin-left: -250px;
+  width: 500px;
+  height: 700px;
+}
+.android-box .head {
+  width: 300px;
+  height: 160px;
+  position: absolute;
+  background: lightgreen;
+  left: 50%;
+  margin-left: -150px;
+  border-top-left-radius: 160px;
+  border-top-right-radius: 160px;
+}
+.android-box .head .eyel {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  background: white;
+  margin-left: -80px;
+  margin-left: -80px;
+  border-radius: 100%;
+}
+.android-box .head .eyel .zrach {
+  width: 15px;
+  height: 15px;
+  background: black;
+  border-radius: 100%;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.android-box .head .eyer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  background: white;
+  height: 50px;
+  margin-left: 30px;
+  border-radius: 100%;
+}
+.android-box .head .eyer .zrach {
+  width: 15px;
+  height: 15px;
+  background: black;
+  border-radius: 100%;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.android-box .tors {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 300px;
+  height: 300px;
+  margin-left: -150px;
+  margin-top: -170px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background: lightgreen;
+}
+.android-box .arml {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 200px;
+  margin-left: -220px;
+  margin-top: -170px;
+  border-radius: 50px;
+  background: lightgreen;
+}
+.android-box .armr {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 200px;
+  margin-left: 170px;
+  border-radius: 50px;
+  background: lightgreen;
+  margin-top: -170px;
+}
+.android-box .footl {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 200px;
+  margin-left: -90px;
+  border-radius: 50px;
+  background: lightgreen;
+  margin-top: 50px;
+}
+.android-box .footr {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 200px;
+  margin-left: 40px;
+  border-radius: 50px;
+  background: lightgreen;
+  margin-top: 50px;
+}
